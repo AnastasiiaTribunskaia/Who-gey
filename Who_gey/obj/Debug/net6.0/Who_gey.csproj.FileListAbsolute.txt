@@ -1,0 +1,15 @@
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\bin\Debug\net6.0\Who_gey.exe
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\bin\Debug\net6.0\Who_gey.deps.json
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\bin\Debug\net6.0\Who_gey.runtimeconfig.json
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\bin\Debug\net6.0\Who_gey.dll
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\bin\Debug\net6.0\Who_gey.pdb
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.csproj.AssemblyReference.cache
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.AssemblyInfoInputs.cache
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.AssemblyInfo.cs
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.dll
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\refint\Who_gey.dll
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.pdb
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\Who_gey.genruntimeconfig.cache
+C:\Users\ruslan\Desktop\ЗАДАНИЯ\Кто педик\Who_gey\obj\Debug\net6.0\ref\Who_gey.dll
